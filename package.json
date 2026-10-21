@@ -143,7 +143,7 @@
 		"unified": "11.0.5",
 		"unist-util-visit": "5.1.0",
 		"valibot": "1.4.2",
-		"vite": "^8.2.2",
+		"vite": "^8.2.4",
 		"vitest": "4.1.11",
 		"wrangler": "4.129.0",
 		"zod": "4.5.4"
